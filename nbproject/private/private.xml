@@ -5,23 +5,9 @@
         <group>
             <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/DanhSachSinhVien.java</file>
             <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/ThemSinhVien.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/ThemMon.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/ChiTietSinhVien.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/Model/Teacher.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/SuaThongTinSinhVien.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/Model/DBConnector.java</file>
+            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/Controller/LoginManager.java</file>
+            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/Model/HttpClient.java</file>
             <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/DangNhap.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/Model/ImageView.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/SuaThongTinSinhVienAdmin.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/DoiMatKhau.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/XemDiemThi.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/Model/MonHoc.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/XemDiemThiSv.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/NhapDiem.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/Model/Student.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/DanhSachMonHoc.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/ChiTietSinhVienAdmin.java</file>
-            <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/View/SuaDiemThi.java</file>
             <file>file:/C:/Users/BOT/Documents/NetBeansProjects/BTLOOP/src/Controller/StudentManager.java</file>
         </group>
     </open-files>

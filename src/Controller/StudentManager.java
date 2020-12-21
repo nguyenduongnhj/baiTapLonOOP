@@ -255,7 +255,7 @@ public class StudentManager {
             s = new Student();
             s.setName(rs.getString("hoten"));
             s.setMaSv(rs.getString("maSv"));
-            list.add(s);
+            list.add(s);    
         }
         return list;
     }

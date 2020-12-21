@@ -5,6 +5,7 @@
  */
 package View;
 
+import Controller.LoginManager;
 import Controller.StudentManager;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
@@ -179,8 +180,10 @@ public class DangNhap extends javax.swing.JFrame {
             String user = txtUser.getText();
             String pass = txtPass.getText();
             
-            StudentManager sm = new StudentManager();
-            int id = sm.login(user, pass);
+//            StudentManager sm = new StudentManager();
+//            int id = sm.login(user, pass);
+             LoginManager l = new LoginManager();
+             int id = l.login(user, pass);
             
             switch (id) {
                 case 0:
